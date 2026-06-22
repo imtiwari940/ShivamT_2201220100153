@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imtiwari940/srm_dsa/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/imtiwari940/srm_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,16 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/imtiwari940/srm_dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/imtiwari940/srm_dsa/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/imtiwari940/srm_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/imtiwari940/srm_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/imtiwari940/srm_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
