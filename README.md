@@ -66,6 +66,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/imtiwari940/srm_dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/imtiwari940/srm_dsa/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/imtiwari940/srm_dsa/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/imtiwari940/srm_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/imtiwari940/srm_dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
