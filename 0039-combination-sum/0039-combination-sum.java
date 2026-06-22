@@ -12,23 +12,21 @@ class Solution {
     private void backtrack(int[] candidates, int target, int start,
                            List<Integer> current, List<List<Integer>> result) {
 
-        // Found a valid combination
+      
         if (target == 0) {
             result.add(new ArrayList<>(current));
             return;
         }
 
-        // If target becomes negative, stop
         if (target < 0) {
             return;
         }
 
         for (int i = start; i < candidates.length; i++) {
 
-            // Choose current number
+           
             current.add(candidates[i]);
 
-            // Reuse same element -> pass i
             backtrack(candidates, target - candidates[i], i, current, result);
 
             // Backtrack
